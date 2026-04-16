@@ -95,4 +95,4 @@ A key technical addition in this project was:
 
 ---
 
-**Note:** This project was developed in pure Z80 assembly for original Game Boy hardware. Some low-level systems and engine details are shared with [*Soldier Assemble*](https://github.com/AleDiz/SoldierAssembleAleDev) and are documented in that project.
+**Note:** This project was developed in pure Z80 assembly for original Game Boy hardware. Some low-level systems and engine details are shared with [*Soldier Assemble*](https://github.com/AleDiz/SoldierAssembleAleDev) and are documented in that project. Some internal comments remain in Spanish, but key systems are documented in English.
